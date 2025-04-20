@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAGlKGCF75w/QTlr2RaGmWVQFQabXTyRVw/view?utm_content=DAGlKGCF75w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="Rani Singh Banner" width="100%" />
+  <img src="banner.png" alt="Rani Singh Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rani Singh!</h1>
@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+
 </p>
 
 ---
@@ -59,7 +59,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/rani-singh-4181b02b5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/></a>
+ 
 </p>
 
 ---
