@@ -55,12 +55,19 @@
 
 ---
 
-### 📫 Connect with me
+<h3>Connect with me</h3>
+<a href="https://www.linkedin.com/in/rani-singh-4181b02b5" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
+<a href="mailto:ranisingh8420@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="30" height="30"/>
+</a>
+<a href="https://github.com/RaniSingh1203" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
+</a>
 
-<p>
-  <a href="https://www.linkedin.com/in/rani-singh-4181b02b5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a>
- 
-</p>
+
+
 
 ---
 
