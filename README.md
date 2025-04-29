@@ -41,7 +41,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-
 </p>
 
 ---
@@ -66,15 +65,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
 </a>
 
-
-
-
 ---
 
 ### 📊 GitHub Stats
 
-![Rani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaniSingh1203&show_icons=true&theme=tokyonight)  
+![Rani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaniSingh1203&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaniSingh1203&layout=compact&theme=tokyonight&langs_count=6&hide=Shell&custom_title=Most%20Used%20Languages&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RaniSingh1203&theme=tokyonight&hide_border=false)
+
 
 ---
 
