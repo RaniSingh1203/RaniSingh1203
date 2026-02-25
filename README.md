@@ -6,8 +6,8 @@
 
 🎓 Computer Science undergrad at B.P. Poddar Institute of Management and Technology (2022–2026)  
 💻 Passionate full-stack developer with a knack for building impactful, real-world projects  
-🔍 Exploring opportunities to grow in software development, AI/ML, and open-source contributions  
-🚀 Currently learning and working with MERN stack, Python, and ML frameworks
+🔍 Exploring opportunities to grow in software development, DSA, and open-source contributions  
+🚀 Currently learning and working with  Nuxt.js , Vue.js , MERN stack, Data Structure and Algorithm.
 
 ---
 
