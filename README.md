@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gitHub_Banner.png" alt="Rani Singh  Banner" width="100%" />
+  <img src="gitHub_Banner.png" alt="Rani Singh  Banner" width="100%" style="max-height: 350px; object-fit: cover;"  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rani Singh!</h1>
