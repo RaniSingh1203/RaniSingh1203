@@ -121,11 +121,17 @@ I enjoy solving complex problems, designing scalable systems, and continuously i
 
 ### 📊 GitHub Stats
 
-![Rani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaniSingh1203&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaniSingh1203&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaniSingh1203&layout=compact&theme=tokyonight&langs_count=6&hide=Shell&custom_title=Most%20Used%20Languages&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniSingh1203&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RaniSingh1203&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RaniSingh1203&theme=tokyonight" />
+</p>
 
 ---
 
