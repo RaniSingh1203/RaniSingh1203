@@ -4,44 +4,87 @@
 
 <h1 align="center">Hi 👋, I'm Rani Singh!</h1>
 
-🎓 Computer Science undergrad at B.P. Poddar Institute of Management and Technology (2022–2026)  
-💻 Passionate full-stack developer with a knack for building impactful, real-world projects  
-🔍 Exploring opportunities to grow in software development, DSA, and open-source contributions  
-🚀 Currently learning and working with  Nuxt.js , Vue.js , MERN stack, Data Structure and Algorithm.
-
----
-
-### 🌟 Projects Highlights
-
-- 🔹 **Job Portal**  
-  Built using Node.js, Express.js, MongoDB, and EJS  
-  ➤ Features role-based dashboards, job posting, filtering, and profile management  
-  ➤ Recruiters can view applicants; seekers can search based on skills and deadlines
-
-- 🔹 **EcoCheck – Carbon Footprint Tracker**  
-  A platform that helps users monitor and reduce their carbon footprint  
-  ➤ Tracks travel-related emissions and encourages sustainable travel choices  
-  ➤ Connects users with green-certified accommodations and local eco-businesses  
-  ➤ Visualizes footprint data and provides actionable suggestions for improvement
-
----
-
-### 💻 Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<p align="center">
+🎓 B.Tech CSE (2022–2026) | CGPA: 8.67 <br>
+🏫 B.P. Poddar Institute of Management and Technology <br>
+💻 Full-Stack Developer | DSA Enthusiast | Problem Solver
 </p>
+
+---
+
+### 👩‍💻 About Me
+
+I am a passionate Computer Science undergraduate who loves building impactful, real-world applications.  
+I enjoy solving complex problems, designing scalable systems, and continuously improving my development skills.
+
+- 🚀 Currently working with **Nuxt 3, Vue 3, MERN Stack**
+- 📊 Solved **600+ DSA problems** on LeetCode
+- 🔐 Strong understanding of **OOP, DBMS, OS, and Data Structures**
+- 🌱 Exploring Open Source & Software Development opportunities
+
+---
+
+
+### 🌟 Project Highlights
+
+---
+
+#### 🔹 DayByDay – Personal Journal App  
+🛠 Nuxt 3 | Vue 3 | MySQL | JWT  
+
+- Built a full-stack journal app with image uploads  
+- Restricted one journal entry per day (editable same day)  
+- Implemented secure JWT authentication  
+- Developed complete CRUD operations  
+- Designed relational database using MySQL  
+
+---
+
+#### 🔹 UniTools – Multi Calculator & Converter  
+🛠 Vue.js | Pinia | JavaScript  
+
+- Responsive multi-utility web app  
+- Centralized state management using Pinia  
+- Modular Vue Composition API architecture  
+- Real-time dynamic calculations  
+- Deployed on Netlify  
+
+---
+
+#### 🔹 EcoCheck – Carbon Footprint Tracker  
+🛠 MERN | Python | XGBoost | FastAPI  
+
+- Built a platform to calculate & visualize carbon emissions  
+- Integrated **XGBoost ML model** to predict emission trends  
+- Developed backend APIs using FastAPI  
+- Stored and managed data using MongoDB  
+
+---
+
+#### 🔹 Job Portal Web Application  
+🛠 Node.js | Express.js | MongoDB | EJS  
+
+- Role-based dashboards (Recruiter & Seeker)  
+- Job posting, filtering & profile management  
+- Recruiters view applicants  
+- Seekers search based on skills & deadlines  
+
+---
+
+### 🧠 Technical Skills
+
+**Languages:** C++, JavaScript, SQL, HTML, CSS  
+**Frameworks/Libraries:** Vue.js, Nuxt 3, MERN Stack  
+**Databases:** MySQL, MongoDB  
+**Core Concepts:** OOP, Data Structures & Algorithms, DBMS, Operating Systems  
+
+---
+
+### 🏆 Achievements
+
+- 🧩 Solved **600+ DSA problems** on LeetCode  
+- 🎯 Coordinated **Tech Fest 2025** with 550+ participants  
+- ❤️ Organized Blood Donation Drive (75 volunteers, 120+ units collected)  
 
 ---
 
@@ -54,7 +97,16 @@
 
 ---
 
-<h3>Connect with me</h3>
+### 🔗 Coding Profiles
+
+- 💻 LeetCode: https://leetcode.com/u/RaniSingh03/
+- 📘 GeeksforGeeks: https://www.geeksforgeeks.org/user/ranisingh03/
+- 🧠 HackerRank: https://www.hackerrank.com/profile/ranisingh8420  
+
+---
+
+### 🤝 Connect with Me
+
 <a href="https://www.linkedin.com/in/rani-singh-4181b02b5" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
@@ -75,7 +127,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RaniSingh1203&theme=tokyonight&hide_border=false)
 
-
 ---
 
-*Thanks for visiting my profile — let's build something amazing together! ✨*
+<h3 align="center">✨ Thanks for visiting my profile — Let's build something impactful together! ✨</h3>
