@@ -7,7 +7,7 @@
 <p align="center">
 🎓 B.Tech CSE (2022–2026) | CGPA: 8.67 <br>
 🏫 B.P. Poddar Institute of Management and Technology <br>
-💻 Full-Stack Developer | DSA Enthusiast | Problem Solver
+💻 Full-Stack Developer | DSA Enthusiast | Problem Solver<br>
 </p>
 
 ---
